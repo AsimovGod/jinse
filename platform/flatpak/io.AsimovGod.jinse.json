@@ -1,0 +1,10 @@
+{
+    "id": "io.AsimovGod.jinse",
+    "command": "jinse",
+
+    "finish-args": [
+        "--device=dri",
+        "--socket=wayland",
+        "--socket=pulseaudio"
+    ]
+}
